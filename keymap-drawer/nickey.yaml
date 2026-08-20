@@ -147,7 +147,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&studio_unlock'
   - BT CLR ALL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
